@@ -11,7 +11,7 @@
 
 - 💬 I like to discuss **Innovation and New Tech**
 
-- 📫 How to reach me **valakijay55@gmail.com**
+- 📫 How to reach me **iamjay1820@gmail.com**
 
 - ⚡ Fun fact **I Love cartons😆**
 
