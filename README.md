@@ -1,4 +1,4 @@
-![logo](https://www.linkpicture.com/q/36312-developer-wallpaper-top-free-developer-background.jpg)
+
 <h1 align="center">Hi 👋, I'm JAYMIN VALAKI</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
