@@ -3,11 +3,9 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **BIO ME ANDROID APP**
+- 🔭 I’m currently working in **Promact Infotech**
 
-- 🌱 I’m currently learning **React Native**
-
-- 🔭 I Had already completed **City Go Projects**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 I like to discuss **Innovation and New Tech**
 
